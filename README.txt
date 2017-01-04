@@ -1,3 +1,5 @@
+After the latest version is stable (without major bugs), I will attach the source and the latest jar.
+
 MAKE SURE FOLDER IS UNZIPPED.
 
 1. DOUBLE CLICK THE JAR
